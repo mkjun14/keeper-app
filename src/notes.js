@@ -1,4 +1,3 @@
-//this the new GIT BRO 
 const notes = [
     {
       key: 1,
