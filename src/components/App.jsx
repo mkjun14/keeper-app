@@ -5,6 +5,8 @@ import Note from "./Note";
 import notes from "../notes";
 
 
+//checking if git working
+
 
 // const newNote = notes.map((note)=>)
 
